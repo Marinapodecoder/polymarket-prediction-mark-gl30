@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Automation Script | cross-chain-arbitrage + order-book-analysis is the best Polymarket automation-script, featuring cross-chain-arbitrage and
 
 
 
